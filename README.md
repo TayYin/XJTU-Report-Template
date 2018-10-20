@@ -1,12 +1,10 @@
-# NjustLabReport
+# XJTU Report Templete
 
-This is a laboratory report(LabReport) for almost all students in NUST.
+This is a report templete for almost all students in XJTU.
+
+
 
 ## Descrtiption 
-非官方版南理工实验报告模板，比较干净清爽，喜欢的同学可以拿去下载。
+非官方版西安交大（实验/作业）报告Latex模板Fork自[NjustLabReport](https://github.com/DocF/NjustLabReport).
 
-## Using：
 
-    使用TeX发行版本：TeXlive，使用TeXstudio+XeLaTeX命令编译；
-
-    运行NJUSTmain文件。
